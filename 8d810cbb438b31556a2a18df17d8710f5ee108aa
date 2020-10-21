@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "724153b1_9d54dd63",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 1
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 1491413
+      },
+      "writtenOn": "2020-10-21T17:30:41Z",
+      "side": 1,
+      "message": "I\u0027ve boot tested this on VIM3",
+      "revId": "8d810cbb438b31556a2a18df17d8710f5ee108aa",
+      "serverId": "85c56323-6fa9-3386-8a01-6480fb634889"
+    }
+  ]
+}
