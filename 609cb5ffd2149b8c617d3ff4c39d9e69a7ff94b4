@@ -16,6 +16,24 @@
       "message": "Something is not ok here:\n5.4/meson-g12b-a311d-khadas-vim3-android.dtb Copied \nmeson-g12b-a311d-khadas-vim3-android.dtb-4.19 \n",
       "revId": "609cb5ffd2149b8c617d3ff4c39d9e69a7ff94b4",
       "serverId": "85c56323-6fa9-3386-8a01-6480fb634889"
+    },
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "c8683686_a22737be",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 1
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 1437603
+      },
+      "writtenOn": "2021-02-05T17:07:36Z",
+      "side": 1,
+      "message": "Yes, gerrit summary looks different than the git summary.  Looking closer now.",
+      "parentUuid": "f4e5c1ba_1d99e818",
+      "revId": "609cb5ffd2149b8c617d3ff4c39d9e69a7ff94b4",
+      "serverId": "85c56323-6fa9-3386-8a01-6480fb634889"
     }
   ]
 }
