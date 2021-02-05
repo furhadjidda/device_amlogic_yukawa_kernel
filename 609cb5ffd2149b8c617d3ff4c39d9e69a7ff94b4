@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "f4e5c1ba_1d99e818",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 1
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 1000414
+      },
+      "writtenOn": "2021-02-05T17:03:19Z",
+      "side": 1,
+      "message": "Something is not ok here:\n5.4/meson-g12b-a311d-khadas-vim3-android.dtb Copied \nmeson-g12b-a311d-khadas-vim3-android.dtb-4.19 \n",
+      "revId": "609cb5ffd2149b8c617d3ff4c39d9e69a7ff94b4",
+      "serverId": "85c56323-6fa9-3386-8a01-6480fb634889"
+    }
+  ]
+}
