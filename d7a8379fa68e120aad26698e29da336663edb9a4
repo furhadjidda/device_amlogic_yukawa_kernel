@@ -152,6 +152,23 @@
       "message": "I559b2f1fb0c8de8e455d09e5f79c8742f312e181",
       "revId": "d7a8379fa68e120aad26698e29da336663edb9a4",
       "serverId": "85c56323-6fa9-3386-8a01-6480fb634889"
+    },
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "47c20eec_c082b50b",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 1
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 1896780
+      },
+      "writtenOn": "2021-09-18T06:52:37Z",
+      "side": 1,
+      "message": "974743: yukawa-kernel: Initial update to kernel 4.19.44 | https://android-review.googlesource.com/c/device/amlogic/yukawa-kernel/+/974743Parent:     07b36535 (Initial empty repository)\nAuthor:     Dmitry Shmidt \u003cdimitrysh@google.com\u003e\nAuthorDate: 2019-05-28 14:01:40 -0700\nCommit:     Dmitry Shmidt \u003cdimitrysh@google.com\u003e\nCommitDate: 2019-05-31 15:02:06 -0700\n\nyukawa-kernel: Initial update to kernel 4.19.44\n\n656ac1bcb55c yukawa: Fix kernel build out directory\n6c68520e707a Merge changes I3c2765ef,I3ee97302,I08b3c569,I768c0a1c,I72147c7f, ...into android-amlogic-bmeson-4.19\ne5eae04f83c7 Merge \"UPSTREAM: meson-gx-socinfo: add missing of_node_put after of_device_is_available\" into android-amlogic-bmeson-4.19\nc3ebd5179b83 Merge \"UPSTREAM: soc: amlogic: gx-socinfo: Add new SoC IDs and Packages IDs\" into android-amlogic-bmeson-4.19\nf2995f164615 Merge changes I6418d5ca,I60ab26a4 into android-amlogic-bmeson-4.19\nec9ceae29150 Merge \"UPSTREAM: arm64: dts: meson-g12a-x96-max: Enable BT Module\" into android-amlogic-bmeson-4.19\n7958d96c8ec4 Merge changes I9ddb4a57,Ibf002a5a,Ife85e4c6,Ia3bceba5,I0114f4f4, ... into android-amlogic-bmeson-4.19\nc1368daa7453 Merge changes Ic679289a,I525dfb3a into android-amlogic-bmeson-4.19\n3d879bcd9e90 Merge \"UPSTREAM: soc: amlogic: add meson-canvas driver\" into android-amlogic-bmeson-4.19\n757eacd0c6da ANDROID: fix yukawa clang build config paths\nab6aa1c72eb0 ANDROID: add yukawa clang build config\n102abd3e691d UPSTREAM: media: meson: ao-cec: use new cec_notifier_parse_hdmi_phandle helper\n...\n39e12695c54a UPSTREAM: bpf: relax inode permission check for retrieving bpf program\n0b63cd6d63c0 Merge 4.19.44 into android-4.19\ndafc674bbcb1 Linux 4.19.44\n\nBug: 124120233\nTest: Manual\n\nChange-Id: I479f0c460465799dace5aeec1d1b0d5a44c8d2bb\nSigned-off-by: Dmitry Shmidt \u003cdimitrysh@google.com\u003e",
+      "revId": "d7a8379fa68e120aad26698e29da336663edb9a4",
+      "serverId": "85c56323-6fa9-3386-8a01-6480fb634889"
     }
   ]
 }
