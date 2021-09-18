@@ -50,6 +50,23 @@
       "message": "1806540: yukawa-kernel: Update to Version 4.19.204 | https://android-review.googlesource.com/c/device/amlogic/yukawa-kernel/+/1806540",
       "revId": "0fbef63b0bf5a5260e6b2cedeec0a0296dc84bf3",
       "serverId": "85c56323-6fa9-3386-8a01-6480fb634889"
+    },
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "8aac375c_b3a8d55b",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 1
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 1896780
+      },
+      "writtenOn": "2021-09-18T06:18:29Z",
+      "side": 1,
+      "message": "/4.19/Image.lz4",
+      "revId": "0fbef63b0bf5a5260e6b2cedeec0a0296dc84bf3",
+      "serverId": "85c56323-6fa9-3386-8a01-6480fb634889"
     }
   ]
 }
