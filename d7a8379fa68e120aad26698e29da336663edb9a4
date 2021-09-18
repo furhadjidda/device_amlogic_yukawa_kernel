@@ -67,6 +67,23 @@
       "message": "https://android-review.googlesource.com/c/device/amlogic/yukawa-kernel/+/1806541",
       "revId": "d7a8379fa68e120aad26698e29da336663edb9a4",
       "serverId": "85c56323-6fa9-3386-8a01-6480fb634889"
+    },
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "c795e10c_d2bfaf6c",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 1
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 1896780
+      },
+      "writtenOn": "2021-09-18T05:56:50Z",
+      "side": 1,
+      "message": "1806541: yukawa-kernel: Update to Version 5.4.141 | https://android-review.googlesource.com/c/device/amlogic/yukawa-kernel/+/1806541",
+      "revId": "d7a8379fa68e120aad26698e29da336663edb9a4",
+      "serverId": "85c56323-6fa9-3386-8a01-6480fb634889"
     }
   ]
 }
