@@ -33,6 +33,23 @@
       "message": "1105564: yukawa-kernel: Update to 4.19.67 and DVFS support | https://android-review.googlesource.com/c/device/amlogic/yukawa-kernel/+/1105564",
       "revId": "0fbef63b0bf5a5260e6b2cedeec0a0296dc84bf3",
       "serverId": "85c56323-6fa9-3386-8a01-6480fb634889"
+    },
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "b89f6692_11b43fa6",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 1
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 1896780
+      },
+      "writtenOn": "2021-09-18T06:16:39Z",
+      "side": 1,
+      "message": "1806540: yukawa-kernel: Update to Version 4.19.204 | https://android-review.googlesource.com/c/device/amlogic/yukawa-kernel/+/1806540",
+      "revId": "0fbef63b0bf5a5260e6b2cedeec0a0296dc84bf3",
+      "serverId": "85c56323-6fa9-3386-8a01-6480fb634889"
     }
   ]
 }
