@@ -118,6 +118,23 @@
       "message": "yukawa: Remove dependency of echo reference on stereo (2-channel) setting\n\nBug:\nTest: Yukawa\nChange-Id: I7b2397674bc7319899a24e84602144394b136c7a",
       "revId": "d7a8379fa68e120aad26698e29da336663edb9a4",
       "serverId": "85c56323-6fa9-3386-8a01-6480fb634889"
+    },
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "ed071e3d_940fcf6c",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 1
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 1896780
+      },
+      "writtenOn": "2021-09-18T06:04:06Z",
+      "side": 1,
+      "message": "\u003e Patch Set 1: Code-Review+2\n\u003e \n\u003e By voting Code-Review+2 the following files are now code-owner approved by \u003cGERRIT_ACCOUNT_1550692\u003e:\n\u003e * 5.4/Image.lz4\n\u003e \n\nI559b2f1fb0c8de8e455d09e5f79c8742f312e181",
+      "revId": "d7a8379fa68e120aad26698e29da336663edb9a4",
+      "serverId": "85c56323-6fa9-3386-8a01-6480fb634889"
     }
   ]
 }
