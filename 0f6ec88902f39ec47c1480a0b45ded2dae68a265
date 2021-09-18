@@ -16,6 +16,23 @@
       "message": "yukawa-kernel: التحديث الأولي لـ kernel 4.19.44\n\n656ac1bcb55c yukawa: إصلاح دليل إنشاء kernel\n6c68520e707a دمج التغييرات I3c2765ef ، I3ee97302 ، I08b3c569 ، I768c0a1c ، I72147c7f ، ... في android-amlogic-bmeson-4.19\ne5eae04f83c7 دمج \"UPSTREAM: meson-gx-socinfo: إضافة مفقود of_node_put بعد of_device_is_available\" في android-amlogic-bmeson-4.19\nc3ebd5179b83 دمج \"UPSTREAM: soc: amlogic: gx-socinfo: إضافة معرفات SoC ومعرفات الحزم الجديدة\" في android-amlogic-bmeson-4.19\nf2995f164615 دمج التغييرات I6418d5ca ، I60ab26a4 في android-amlogic-bmeson-4.19\nec9ceae29150 دمج \"UPSTREAM: arm64: dts: meson-g12a-x96-max: تمكين وحدة BT\" في android-amlogic-bmeson-4.19\n7958d96c8ec4 دمج التغييرات I9ddb4a57 ، Ibf002a5a ، Ife85e4c6 ، Ia3bceba5 ، I0114f4f4 ، ... في android-amlogic-bmeson-4.19\nc1368daa7453 دمج التغييرات Ic679289a ، I525dfb3a في android-amlogic-bmeson-4.19\n3d879bcd9e90 دمج \"UPSTREAM: soc: amlogic: إضافة برنامج تشغيل meson-canvas\" في android-amlogic-bmeson-4.19\n757eacd0c6da ANDROID: إصلاح مسارات تكوين yukawa clang build\nab6aa1c72eb0 ANDROID: إضافة تكوين بناء yukawa clang\n102abd3e691d UPSTREAM: media: meson: ao-cec: استخدم مساعد cec_notifier_parse_hdmi_phandle الجديد\n...\n39e12695c54a UPSTREAM: bpf: الاسترخاء في التحقق من إذن inode لاسترداد برنامج bpf\n0b63cd6d63c0 دمج 4.19.44 في android-4.19\ndafc674bbcb1 Linux 4.19.44\n\nالخطأ: 124120233\nالاختبار: يدوي\n\nمعرف التغيير: I479f0c460465799dace5aeec1d1b0d5a44c8d2bb\nقام بتسجيل الخروج: ديمتري شميدت \u003cdimitrysh@google.com\u003e\nصورة [مضافة - فرق ]\nmeson-g12a-sei510.dtb [تمت الإضافة - فرق ]\nتم تغيير 2 ملف\nالشجرة: b713818ae3b6323718bc70385369864ca65fb8a9\nصورة\nميسون- g12a-sei510.dtb",
       "revId": "0f6ec88902f39ec47c1480a0b45ded2dae68a265",
       "serverId": "85c56323-6fa9-3386-8a01-6480fb634889"
+    },
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "ab18a0a7_5e9cfec5",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 1
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 1896780
+      },
+      "writtenOn": "2021-09-18T06:34:29Z",
+      "side": 1,
+      "message": "meson-g12a-sei510.dtb",
+      "revId": "0f6ec88902f39ec47c1480a0b45ded2dae68a265",
+      "serverId": "85c56323-6fa9-3386-8a01-6480fb634889"
     }
   ]
 }
