@@ -16,6 +16,23 @@
       "message": "The reason that one file looks like a copy is because `meson-g12b-a311d-khadas-vim3-android.dtb-4.19` and `meson-g12b-a311d-khadas-vim3-android.dtb-5.4` are identical files.  \n\nFor some reason gerrit shows this as a copy of the 4.19 version into the 5.4 dir and the 5.4 version being deleted.  Since they are identical, that\u0027s fine, but defintely makes the log look strange.\n\nFor the record, here is the script that was used to make this change:\n\n#!/bin/bash\ngit mv Image.lz4-4.19 4.19/Image.lz4\ngit mv Image.lz4-5.10 5.10/Image.lz4\ngit mv Image.lz4-5.4 5.4/Image.lz4\ngit mv meson-g12a-sei510-android.dtb-4.19 4.19/meson-g12a-sei510-android.dtb\ngit mv meson-g12a-sei510-android.dtb-5.10 5.10/meson-g12a-sei510-android.dtb\ngit mv meson-g12a-sei510-android.dtb-5.4 5.4/meson-g12a-sei510-android.dtb\ngit mv meson-g12a-sei510.dtb-4.19 4.19/meson-g12a-sei510.dtb\ngit mv meson-g12a-sei510.dtb-5.10 5.10/meson-g12a-sei510.dtb\ngit mv meson-g12a-sei510.dtb-5.4 5.4/meson-g12a-sei510.dtb\ngit mv meson-g12b-a311d-khadas-vim3-android.dtb-4.19 4.19/meson-g12b-a311d-khadas-vim3-android.dtb\ngit mv meson-g12b-a311d-khadas-vim3-android.dtb-5.10 5.10/meson-g12b-a311d-khadas-vim3-android.dtb\ngit mv meson-g12b-a311d-khadas-vim3-android.dtb-5.4 5.4/meson-g12b-a311d-khadas-vim3-android.dtb\ngit mv meson-g12b-a311d-khadas-vim3.dtb-4.19 4.19/meson-g12b-a311d-khadas-vim3.dtb\ngit mv meson-g12b-a311d-khadas-vim3.dtb-5.10 5.10/meson-g12b-a311d-khadas-vim3.dtb\ngit mv meson-g12b-a311d-khadas-vim3.dtb-5.4 5.4/meson-g12b-a311d-khadas-vim3.dtb\ngit mv meson-sm1-khadas-vim3l-android.dtb-4.19 4.19/meson-sm1-khadas-vim3l-android.dtb\ngit mv meson-sm1-khadas-vim3l-android.dtb-5.10 5.10/meson-sm1-khadas-vim3l-android.dtb\ngit mv meson-sm1-khadas-vim3l-android.dtb-5.4 5.4/meson-sm1-khadas-vim3l-android.dtb\ngit mv meson-sm1-khadas-vim3l.dtb-4.19 4.19/meson-sm1-khadas-vim3l.dtb\ngit mv meson-sm1-khadas-vim3l.dtb-5.10 5.10/meson-sm1-khadas-vim3l.dtb\ngit mv meson-sm1-khadas-vim3l.dtb-5.4 5.4/meson-sm1-khadas-vim3l.dtb\ngit mv meson-sm1-sei610-android.dtb-4.19 4.19/meson-sm1-sei610-android.dtb\ngit mv meson-sm1-sei610-android.dtb-5.10 5.10/meson-sm1-sei610-android.dtb\ngit mv meson-sm1-sei610-android.dtb-5.4 5.4/meson-sm1-sei610-android.dtb\ngit mv meson-sm1-sei610.dtb-4.19 4.19/meson-sm1-sei610.dtb\ngit mv meson-sm1-sei610.dtb-5.10 5.10/meson-sm1-sei610.dtb\ngit mv meson-sm1-sei610.dtb-5.4 5.4/meson-sm1-sei610.dtb\n",
       "revId": "9821defc46e5b3818052297f88e639ba39bf2e2b",
       "serverId": "85c56323-6fa9-3386-8a01-6480fb634889"
+    },
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "8180295f_26405519",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 2
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 1900661
+      },
+      "writtenOn": "2021-10-30T01:35:34Z",
+      "side": 1,
+      "message": "https://android.googlesource.com/accessories/manifest/+/9ad7ef740dc39834a88bf95c69f35f18b8f45543/",
+      "revId": "9821defc46e5b3818052297f88e639ba39bf2e2b",
+      "serverId": "85c56323-6fa9-3386-8a01-6480fb634889"
     }
   ]
 }
