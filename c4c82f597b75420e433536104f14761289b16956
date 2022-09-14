@@ -16,6 +16,23 @@
       "message": "add me plz",
       "revId": "c4c82f597b75420e433536104f14761289b16956",
       "serverId": "85c56323-6fa9-3386-8a01-6480fb634889"
+    },
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "41695d8e_68d6c45e",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 1
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 1967136
+      },
+      "writtenOn": "2022-09-14T16:19:01Z",
+      "side": 1,
+      "message": "\u003e Patch Set 1: Code-Review+1\n\u003e \n\u003e By voting Code-Review+1 the following files are now code-owner approved by \u003cGERRIT_ACCOUNT_1961325\u003e:\n\u003e * 5.15/Image.lz4\n\u003e * 5.15/meson-g12a-sei510-android.dtb\n\u003e \n\n",
+      "revId": "c4c82f597b75420e433536104f14761289b16956",
+      "serverId": "85c56323-6fa9-3386-8a01-6480fb634889"
     }
   ],
   "submitRequirementResults": [
